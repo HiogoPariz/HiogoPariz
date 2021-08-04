@@ -4,8 +4,8 @@
 </p>
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=HiogoPariz&theme=dark"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiogoPariz&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HiogoPariz&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiogoPariz&theme=dark"/>
 </div>
 
 ## Skills
